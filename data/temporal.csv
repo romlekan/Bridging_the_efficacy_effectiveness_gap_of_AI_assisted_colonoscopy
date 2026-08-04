@@ -1,0 +1,6 @@
+period,implementation_adr,unsupported_adr,difference,alert_to_action,alerts_ignored
+months_1_3,44.8,36.2,8.6,84.1,15.9
+months_4_6,42.1,36.9,5.2,79.2,20.8
+months_7_9,41.3,36.4,4.9,75.8,24.2
+months_10_12,41.0,36.6,4.4,74.6,25.4
+months_13_18,,,3.8,68.3,31.7

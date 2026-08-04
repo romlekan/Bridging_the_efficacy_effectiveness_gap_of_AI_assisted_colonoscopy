@@ -1,0 +1,17 @@
+cohort_id,group,n,adr_percent,fidelity_score,volume_tier
+1,implementation,523,45.1,88,high
+2,implementation,498,43.8,82,high
+3,implementation,536,44.2,91,low
+4,implementation,487,38.6,67,low
+5,implementation,512,41.7,74,high
+6,implementation,501,39.2,63,low
+7,implementation,518,44.9,85,high
+8,implementation,512,40.8,77,low
+9,unsupported,486,37.2,,high
+10,unsupported,472,35.8,,low
+11,unsupported,501,38.4,,high
+12,unsupported,458,34.1,,low
+13,unsupported,489,37.9,,high
+14,unsupported,443,33.7,,low
+15,unsupported,476,36.8,,high
+16,unsupported,442,38.1,,low

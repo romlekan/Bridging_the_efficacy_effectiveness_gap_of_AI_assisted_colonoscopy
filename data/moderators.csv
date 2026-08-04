@@ -1,0 +1,9 @@
+moderator,subgroup,improvement,ci_low,ci_high,interaction_p
+center_volume,high,4.2,1.1,7.3,0.08
+center_volume,low,7.6,3.8,11.4,0.08
+experience,at_least_10_years,4.8,1.7,7.9,0.14
+experience,under_10_years,7.1,3.2,11.0,0.14
+baseline_adr,at_least_30,3.9,0.8,7.0,0.04
+baseline_adr,under_30,8.4,4.7,12.1,0.04
+fidelity,high,7.8,4.3,11.3,0.002
+fidelity,low,2.9,0.1,5.7,0.002
